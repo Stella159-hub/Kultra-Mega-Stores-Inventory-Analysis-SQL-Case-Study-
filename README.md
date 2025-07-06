@@ -1,4 +1,8 @@
 # Kultra-Mega-Stores-Inventory-Analysis-SQL-Case-Study-
+## 📁 Other Projects in This Repository
+
+- [Kultra-Mega-Stores-Inventory-Analysis-SQL-Case-Study-](#) — You're here
+- [Power BI Analysis: Palmora Group HR Analysis](PowerBI/README.md)
  Kultra Mega Stores Inventory Analysis (SQL Case Study)
 🏢 Project Overview
 This project analyzes four years (2009–2012) of order data from Kultra Mega Stores (KMS), a Lagos-based retailer specializing in office supplies and furniture. As a Business Intelligence Analyst supporting the Abuja division, I was tasked with extracting insights that inform business decisions using SQL Server.
